@@ -173,7 +173,7 @@ document.getElementById("mae").style.opacity = "0";
 document.getElementById("timer").style.opacity = "0";
 var espera = setInterval(counter_to_x, 1000);
 let frases = [
-    "The Beatles, entretanto, Pink Floyd é melhor",
+    "The Beatles é bom, entretanto, Pink Floyd é melhor",
     "Eu lhe disse, naquela noite, que lhe odiava... Todavia, meu amor, perdido estava em meio a paixão.",
     "Diria-lhe que és o Sol e eu a Lua, contudo, Marta, eu não morreria todas as noites por você.",
     "Beijou a testa do filho, lhe deu boa noite, porém o observou por alguns segundos, o coração de mãe apertado em vê-lo doente.",
